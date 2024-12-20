@@ -34,8 +34,6 @@ document.getElementById('cityform').addEventListener('submit', function (event) 
   });
 
   const apiKey = CONFIG.API_KEY;
-  // console.log(apiKey)
-  // const apiKey =  "8b2c241457c755b52b14036e131640a8";
   const city = data['city'];
   const country = data['country'];
 
@@ -66,7 +64,6 @@ function getDate(epoch, timezoneOffset){
 }
 
 function api(lat, lon) {
-  // const apiKey = "8b2c241457c755b52b14036e131640a8";
   const apiKey = CONFIG.API_KEY;
 
   const OWM_Endpoint = "https://api.openweathermap.org/data/2.5/forecast";
