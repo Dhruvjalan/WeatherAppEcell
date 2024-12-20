@@ -1,0 +1,17 @@
+{
+  "name": "apiproject",
+  "version": "1.0.0",
+  "description": "api project for ecell",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Dhruv Jalan",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
+}
