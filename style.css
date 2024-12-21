@@ -19,13 +19,15 @@ body{
     
 
 }
-body h1{
+title h1{
     font-size: 10rem;
+    display: flex;
     align-self: flex-start;
     justify-self: center;
+    justify-content: center;
     width: 100%;
     word-wrap: break-word;    
-/*     word-break: break-word;    */
+    word-break: break-word;    
     overflow-wrap: break-word;
 }
 header a{
