@@ -23,9 +23,9 @@ body h1{
     font-size: 10rem;
     align-self: flex-start;
     justify-self: center;
-    word-wrap: break-word;    /* Allows long words to break */
-    word-break: break-word;   /* Ensures text breaks when necessary */
-    overflow-wrap: break-word; /* Makes text wrap within the container */
+    word-wrap: break-word;    
+/*     word-break: break-word;    */
+    overflow-wrap: break-word;
 }
 header a{
     text-decoration: none;
