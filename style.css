@@ -23,6 +23,7 @@ body h1{
     font-size: 10rem;
     align-self: flex-start;
     justify-self: center;
+    width: 100%;
     word-wrap: break-word;    
 /*     word-break: break-word;    */
     overflow-wrap: break-word;
