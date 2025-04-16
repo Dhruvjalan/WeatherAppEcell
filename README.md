@@ -14,3 +14,12 @@ The Weather App displays a variety of information including:
 5. Average Humidity
 6. Average Visbility
 7. It also shows time specific forcast for the next 12 hours with information about humidity, precipitation probability and temperature.  
+
+
+Working App: https://drive.google.com/file/d/1fOMgI5CcTDc8HDf3m5kk7GCggtdiz17K/view?usp=sharing
+
+## How to use?
+Download the Zip and Extract it into a file
+Upload the folder to an IDE
+In the terminal, at the location of the folder enter the command: '''bash python -m http.server 8000
+Open the following link on your localhost: http://localhost:8000/app.html
