@@ -21,5 +21,5 @@ Working App: https://drive.google.com/file/d/1fOMgI5CcTDc8HDf3m5kk7GCggtdiz17K/v
 ## How to use?
 1. Download the Zip and Extract it into a file
 2. Upload the folder to an IDE
-3. In the terminal, at the location of the folder enter the command: <pre> ```bash python -m http.server 8000 ``` </pre>
+3. In the terminal, at the location of the folder enter the command: <pre> ```python -m http.server 8000 ``` </pre>
 4. Open the following link on your localhost: http://localhost:8000/app.html
