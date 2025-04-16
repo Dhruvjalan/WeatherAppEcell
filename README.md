@@ -19,7 +19,7 @@ The Weather App displays a variety of information including:
 Working App: https://drive.google.com/file/d/1fOMgI5CcTDc8HDf3m5kk7GCggtdiz17K/view?usp=sharing
 
 ## How to use?
-Download the Zip and Extract it into a file
-Upload the folder to an IDE
-In the terminal, at the location of the folder enter the command: '''bash python -m http.server 8000
-Open the following link on your localhost: http://localhost:8000/app.html
+1. Download the Zip and Extract it into a file
+2. Upload the folder to an IDE
+3. In the terminal, at the location of the folder enter the command: '''bash python -m http.server 8000
+4. Open the following link on your localhost: http://localhost:8000/app.html
